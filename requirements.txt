@@ -1,7 +1,8 @@
-tensorflow
+tensorflow==2.10.0
 dvc
 pandas
 notebook
 numpy
 matplotlib
 seaborn
+-e .

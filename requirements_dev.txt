@@ -1,11 +1,12 @@
 
-tensorflow
+tensorflow==2.10.0
 dvc
 pandas
 notebook
 numpy
 matplotlib
 seaborn
+-e .
 
 ## These files are required in dev environment for unit testing, but not in production env 
 ## Dev requirements
