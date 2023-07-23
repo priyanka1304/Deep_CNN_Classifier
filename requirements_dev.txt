@@ -6,6 +6,11 @@ notebook
 numpy
 matplotlib
 seaborn
+python-box==6.0.2
+pyYAML
+tqdm
+ensure==1.0.2
+joblib
 -e .
 
 ## These files are required in dev environment for unit testing, but not in production env 
